@@ -6,4 +6,4 @@
 #  extensions:
 #    - revaturePro.revature-labs
 tasks:
-  - init: ./post-commit-command.sh
+  - init: sudo sh post-commit-command.sh
